@@ -2,7 +2,7 @@ package lab_1;
 
 import java.util.Scanner;
 
-public class Array {
+public class Arrayss {
     Scanner scanner = new Scanner(System.in);
 
     public void traversal(int[] numbers) {

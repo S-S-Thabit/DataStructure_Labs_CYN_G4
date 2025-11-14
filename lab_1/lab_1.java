@@ -3,7 +3,7 @@ package lab_1;
 public class lab_1 {
     public static void main(String[] args) {
         // 3 Scanner scanner=new Scanner(System.in);
-        Array arr = new Array();
+        Arrayss arr = new Arrayss();
         // int []numbers={1,2,3};
         int[] numbers = new int[3];
         arr.input(numbers);
@@ -11,7 +11,7 @@ public class lab_1 {
 
         arr.revers_traversal(numbers);
 
-        // System.out.println(Arrays.toString(numbers));
+        // System.out.println(Arrayss.toString(numbers));
 
         // for (int i=0; i<numbers.length;i++)
         // System.out.println(numbers[i]);
