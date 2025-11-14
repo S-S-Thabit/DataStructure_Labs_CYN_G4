@@ -11,14 +11,7 @@ public class lab_1 {
 
         arr.revers_traversal(numbers);
 
-        // System.out.println(Arrayss.toString(numbers));
-
-        // for (int i=0; i<numbers.length;i++)
-        // System.out.println(numbers[i]);
-
-        // for(int num :numbers)
-        // System.out.println(num);
-        //
+        
 
     }
 }
